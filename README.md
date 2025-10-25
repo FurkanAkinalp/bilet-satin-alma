@@ -1,9 +1,9 @@
-Admin Kullanıcı Bilgileri\n
-kullanıcı adı: admin@admin.com\n
-parola:        admin\n
-Özkaymak Admin Kullanıcı Bilgileri\n
-kullanıcı adı: info@ozkaymak.com\n
-parola:        ozkaymak123\n
-Test Kullanıcı Bilgileri\n
-kullanıcı adı: test@test.com\n
+Admin Kullanıcı Bilgileri  
+kullanıcı adı: admin@admin.com  
+parola:        admin  
+Özkaymak Admin Kullanıcı Bilgileri  
+kullanıcı adı: info@ozkaymak.com  
+parola:        ozkaymak123  
+Test Kullanıcı Bilgileri  
+kullanıcı adı: test@test.com  
 parola:        1234
