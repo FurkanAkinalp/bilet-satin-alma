@@ -33,7 +33,7 @@ function protect_page() {
 
 function require_role($required_role) {
     protect_page();
-    
+
     if (!isset($_SESSION['role']) || $_SESSION['role'] !== $required_role) {
         header("Location: index.php?error=unauthorized");
         exit;
